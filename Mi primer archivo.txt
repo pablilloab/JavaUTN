@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola desde local
+=======
+Hola desde Git
+>>>>>>> ff2e39ccef894a1ff82da60c678172675d44ffa2
